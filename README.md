@@ -1,6 +1,6 @@
 #Movie Performance Analysis Dashboard 
 
-###Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+###Dashboard Snapshot : (https://github.com/Kanika151/Projects/blob/main/Untitled.png)
 
 
 
@@ -66,7 +66,7 @@ The dashboard provides actionable insights that help stakeholders make informed 
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+![Dashboard_upload](https://github.com/Kanika151/Projects/blob/main/Untitled.png)
 
 # Insights
 
