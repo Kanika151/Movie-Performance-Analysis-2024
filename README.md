@@ -142,15 +142,6 @@ Following inferences can be drawn from the dashboard;
          
 ### Genre 
 
-3.1) Genre with top rated movies is Drama = 56/191
-3.2) 81.69 % customers have customer type 'returning'.
+3.1) Genre with top rated movies is Drama .
        
-       thus, more customers have customer type 'returning'.
-
-### Type of travel
-
-4.1) 69.06 % customers have travel type 'Business'.
-
-4.2) 30.94 % customers have travel type 'Personal'.
-
-        thus, m
+       
